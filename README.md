@@ -9,7 +9,7 @@ This project demonstrates the implementation of classic **Constraint Satisfactio
 Each problem is solved using **Backtracking with constraints**, ensuring valid and optimized solutions.
 
 ###  Map Coloring – Australia
-* Colors the 7 regions: WA, NT, QLD, SA, NSW, V, T
+* Colors the 7 regions: WA, NT, Queensland, SA, NSW, V, T
 * Constraint: No adjacent regions share the same color
 * Technique: Backtracking CSP
 
@@ -21,7 +21,7 @@ Each problem is solved using **Backtracking with constraints**, ensuring valid a
 
 ###  Sudoku Solver
 * Solves a standard 9×9 Sudoku grid
-* Empty cells represented by `0`
+* Empty cells represented by 0
 * Constraints:
   * Unique numbers in each row
   * Unique numbers in each column
@@ -42,7 +42,6 @@ Solution:
 * Python 3
 * Libraries:
   * matplotlib (for visualization)
-  * plotly / geopandas (optional for real maps)
 
 ##  Concepts Covered
 * Constraint Satisfaction Problems (CSP)
